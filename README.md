@@ -6,10 +6,6 @@
 
 *A 3D Adventure Game Built with Unity & C#*
 
-![Unity](https://img.shields.io/badge/Unity-Game_Engine-black?logo=unity)
-![C#](https://img.shields.io/badge/C%23-Programming-512BD4?logo=sharp)
-![Platform](https://img.shields.io/badge/Platform-macOS-blue)
-![Levels](https://img.shields.io/badge/Levels-3-brightgreen)
 
 </div>
 
